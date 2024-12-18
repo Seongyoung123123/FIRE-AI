@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "2349013432338;opaksfire"
+      "value": "923253980306;Ahmed Chuzza"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "FIRE MD"
+      "value": "𓆩❤𓆪👨💓👩𝘾𝙃𝙐𝙕𝙕𝘼𝘼𓆩❤𓆪👨💓👩"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
